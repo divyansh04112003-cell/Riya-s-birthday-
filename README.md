@@ -1,0 +1,11 @@
+riya-birthday
+│
+├── index.html
+└── photos
+    ├── photo1.jpeg
+    ├── photo2.jpeg
+    ├── photo3.jpeg
+    ├── photo4.jpeg
+    ├── photo5.jpeg
+    ├── photo6.jpeg
+    └── photo7.jpeg
